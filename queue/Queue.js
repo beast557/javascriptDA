@@ -1,3 +1,6 @@
+//same as Stack
+//but
+//this uses First In First Out
 class Queue{
     constructor() {
     this.count = 0; 
